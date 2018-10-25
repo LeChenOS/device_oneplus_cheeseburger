@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_cheeseburger.mk
+    $(LOCAL_DIR)/lechenos.mk
